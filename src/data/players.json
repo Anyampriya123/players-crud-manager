@@ -1,0 +1,25 @@
+{
+    "players": [
+      {
+        "id": 1,
+        "name": "Lionel Messi",
+        "age": 34,
+        "position": "Forward",
+        "nationality": "Argentina"
+      },
+      {
+        "id": 2,
+        "name": "Cristiano Ronaldo",
+        "age": 36,
+        "position": "Forward",
+        "nationality": "Portugal"
+      },
+      {
+        "id": 3,
+        "name": "Neymar Jr.",
+        "age": 29,
+        "position": "Forward",
+        "nationality": "Brazil"
+      }
+    ]
+  }
